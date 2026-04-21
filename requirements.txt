@@ -1,0 +1,13 @@
+# Data Processing & Math
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning Frameworks (Keep only the one you use)
+scikit-learn>=1.2.0
+# tensorflow>=2.12.0
+# torch>=2.0.0
+
+# Visualization & Logging
+matplotlib>=3.7.0
+tqdm>=4.65.0
